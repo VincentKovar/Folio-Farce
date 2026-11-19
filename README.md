@@ -1,8 +1,12 @@
+
 # Folio & Farce
 
 **A comedy plot generator and outline studio for writers.**
 
 Folio & Farce builds a full comedy outline from a few choices: how many characters, which medium, and which comedic subgenre. You can lock the cards you love, reroll the ones you don't, and export the result as a Markdown outline ready for drafting.
+
+<img width="1226" height="1070" alt="Screenshot 2026-11-19 at 3 20 16 PM" src="https://github.com/user-attachments/assets/3b4080d8-80ac-437f-9c2f-5e9247e6435f" />
+
 
 ## Where it comes from
 
@@ -30,7 +34,19 @@ The Deck mode works fully offline, so you can use the app without any setup.
 
 ## Getting started
 
-You'll need [Node.js](https://nodejs.org/) installed.
+### Package manager
+
+This project works with either **npm** or **[Bun](https://bun.sh/)**. The repo includes a `bun.lock` file because it was started with Bun, but the scripts are plain Node tooling, so npm works too.
+
+| Task | npm | Bun |
+|---|---|---|
+| Install dependencies | `npm install` | `bun install` |
+| Start the app | `npm run dev` | `bun run dev` |
+| Build | `npm run build` | `bun run build` |
+
+Use one or the other, not both. Mixing them can create conflicting lockfiles.
+
+[Node.js](https://nodejs.org/)
 
 ```bash
 # 1. Install dependencies
