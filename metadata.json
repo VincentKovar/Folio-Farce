@@ -1,0 +1,6 @@
+{
+  "name": "Folio & Farce",
+  "description": "An interactive comedy plot generator and writer's outline studio customizable by cast size, storytelling medium, and comedic subgenre with card locking and Markdown export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
