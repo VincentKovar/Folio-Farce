@@ -5,12 +5,11 @@
 
 Folio & Farce builds a full comedy outline from a few choices: how many characters, which medium, and which comedic subgenre. You can lock the cards you love, reroll the ones you don't, and export the result as a Markdown outline ready for drafting.
 
-<img width="900" alt="Screenshot Folio and Farce Plot Generator" src="https://github.com/user-attachments/assets/3b4080d8-80ac-437f-9c2f-5e9247e6435f" />
-
-
 ## Where it comes from
 
 In the pulp era, writers kept plot machines on their desks. Lester Dent's famous master fiction formula, Erle Stanley Gardner's plot wheel, and William Wallace Cook's *Plotto* all treated story structure as a set of parts you could shuffle, swap and rebuild. Folio & Farce borrows that idea and points it at comedy. Instead of murders and mysteries, the parts are flaws, secret goals, farcical collisions and running gags.
+
+<img width="600" alt="Screenshot Folio and Farce Plot Generator" src="https://github.com/user-attachments/assets/3b4080d8-80ac-437f-9c2f-5e9247e6435f" />
 
 ## What it does
 
