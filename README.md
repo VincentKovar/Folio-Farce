@@ -5,7 +5,7 @@
 
 Folio & Farce builds a full comedy outline from a few choices: how many characters, which medium, and which comedic subgenre. You can lock the cards you love, reroll the ones you don't, and export the result as a Markdown outline ready for drafting.
 
-<img width="1226" height="1070" alt="Screenshot 2026-11-19 at 3 20 16 PM" src="https://github.com/user-attachments/assets/3b4080d8-80ac-437f-9c2f-5e9247e6435f" />
+<img width="900" alt="Screenshot Folio and Farce Plot Generator" src="https://github.com/user-attachments/assets/3b4080d8-80ac-437f-9c2f-5e9247e6435f" />
 
 
 ## Where it comes from
